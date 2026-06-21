@@ -1,4 +1,4 @@
-# Pasión bajo la luna
+# Pasión bajo la luna, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Pasión bajo la luna |
+| **Title** | Pasión bajo la luna, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-bajo-la-luna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Pasión bajo la luna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-bajo-la-luna/) |
+| **Get License** | [Get a Licensing Quote for Pasión bajo la luna, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-bajo-la-luna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bajo la luna llena, tú y yo perdiendo el control
+> La noche nos llama, se enciende la llama, me robas la calma
+> Siento tu respiración, acelera mi corazón
+> Dime que esta noche tú te escapas conmigo sin dar una razón
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `d765bf27dfabb71ac004e308457ba5427a86079c9b1d03d7306e4240e1733047` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

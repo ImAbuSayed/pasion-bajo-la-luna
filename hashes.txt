@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pasión bajo la luna, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Pasión bajo la luna, Vol. 2** (pasion-bajo-la-luna-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T10:51:17.516314 | `v1` | `d765bf27dfabb71ac004e308457ba5427a86079c9b1d03d7306e4240e1733047` | `7d1c9daf5a841531b6ef94cc216234e53011a25f3c3c3ab541d73b369fa78666` | `2026-06-21_pasion-bajo-la-luna-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
